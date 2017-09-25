@@ -2,4 +2,7 @@
 
 import UIKit
 
-var str = "Hello, playground"
+var WelcomeMessege = "String"
+WelcomeMessege = "hallo"
+
+

@@ -2,7 +2,7 @@
 
 import UIKit
 
-var myName String
+var myName String;
 var otherName = "words"
 var thisName : String = "meow"
 
